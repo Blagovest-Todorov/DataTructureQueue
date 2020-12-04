@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\01.DataStructures\03.Queue\bin\Debug\netcoreapp3.1\03.Queue.exe
+C:\Users\Bla\source\repos\01.DataStructures\03.Queue\bin\Debug\netcoreapp3.1\03.Queue.deps.json
+C:\Users\Bla\source\repos\01.DataStructures\03.Queue\bin\Debug\netcoreapp3.1\03.Queue.runtimeconfig.json
+C:\Users\Bla\source\repos\01.DataStructures\03.Queue\bin\Debug\netcoreapp3.1\03.Queue.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.DataStructures\03.Queue\bin\Debug\netcoreapp3.1\03.Queue.dll
+C:\Users\Bla\source\repos\01.DataStructures\03.Queue\bin\Debug\netcoreapp3.1\03.Queue.pdb
+C:\Users\Bla\source\repos\01.DataStructures\03.Queue\obj\Debug\netcoreapp3.1\03.Queue.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\01.DataStructures\03.Queue\obj\Debug\netcoreapp3.1\03.Queue.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.DataStructures\03.Queue\obj\Debug\netcoreapp3.1\03.Queue.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.DataStructures\03.Queue\obj\Debug\netcoreapp3.1\03.Queue.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.DataStructures\03.Queue\obj\Debug\netcoreapp3.1\03.Queue.dll
+C:\Users\Bla\source\repos\01.DataStructures\03.Queue\obj\Debug\netcoreapp3.1\03.Queue.pdb
+C:\Users\Bla\source\repos\01.DataStructures\03.Queue\obj\Debug\netcoreapp3.1\03.Queue.genruntimeconfig.cache
